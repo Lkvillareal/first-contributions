@@ -13,6 +13,7 @@
 - [Meghna Chhabra](https://github.com/meghna-code)
 - [Joyce Kwon🚀](https://github.com/joyceyskwon)
 - [Woody](https://https://github.com/woodybooy)
+- [Leo Keith](https://github.com/Lkvillareal)
 - [Josh McDaniel](https://github.com/mcdanije22)
 - [Adif Dwi Maulana](https://github.com/adifdwimaulana)
 - [Tyron Samaroo](https://github.com/tyronsamaroo)
